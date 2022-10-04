@@ -5,6 +5,8 @@
 - 🤖 Atuo no **Projeto Robótica Educacional e Primeiros Passos**
 - 📫 Contatos:
 -  https://linktr.ee/marcelokuhl
+- https://orcid.org/0000-0001-9973-3180
+- 
 
 <!---
 marcelokuhl/marcelokuhl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
