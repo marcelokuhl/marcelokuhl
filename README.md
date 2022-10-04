@@ -1,4 +1,4 @@
-- 👋 Olá, Sou professor Marcelo Guilherme KUhl @marcelokuhl
+- 👋 Olá, Sou professor Marcelo Guilherme Kühl @marcelokuhl
 - 📔 Sou professor do Curso Técnico em Informática Integrado 
 - 🌱 Atualmente estou no Grupo Formadores - TURMA H _ PENSAM COMPUT 2023_ FORM EM ACAO
 - 💞️ Estou trabalhando no Colégio Estadual de Pato Branco - PR
