@@ -1,8 +1,11 @@
-- 👋 Olá, Sou professor **Marcelo Guilherme Kühl** [email](marcelokuhl@gmail.com)
-- 📔 Sou professor do Curso Técnico em Informática Integrado 
-- 🌱 Atualmente estou no Grupo Formadores - TURMA H _ PENSAM COMPUT 2023_ FORM EM ACAO
-- 💞️ Estou trabalhando no Colégio Estadual de Pato Branco - PR
-- 🤖 Atuo no **Projeto Robótica Educacional e Primeiros Passos**
+<h1 align="center">Prof. Marcelo Guilherme Kühl</h1>
+- 👋 Olá, Devs !!!
+<img src="https://user-images.githubusercontent.com/68967909/194184154-08c18020-794c-4d08-ba17-194d530fdc85.png" width="100">
+
+- 📔 Sou professor do Curso Técnico em Informática Integrado.
+- 🌱 Atualmente estou no Grupo Formadores - TURMA H _ PENSAM COMPUT 2023_ FORM EM ACAO.
+- 💞️ Estou trabalhando no Colégio Estadual de Pato Branco - PR.
+- 🤖 Atuo no **Projeto Robótica Educacional e Primeiros Passos**.
 ## Contatos:
 
 <div>
