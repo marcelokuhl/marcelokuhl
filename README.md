@@ -1,5 +1,5 @@
 <img align="right" width="250px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/68967909/194184154-08c18020-794c-4d08-ba17-194d530fdc85.png" width="80"></br></br>
-<div dsplay="inline-block"><h1 align="left">Profº. Marcelo Guilherme Kühl</h1>
+<div dsplay="inline-block"><h1 align="left">Profº. Marcelo Guilherme K&#252;hl</h1>
   <a href="https://www.youtube.com/channel/UClh-DYld-Bo5VELKp58jEYQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/marceloguilherme.kuhl/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:marcelokuhl@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">     </a>
