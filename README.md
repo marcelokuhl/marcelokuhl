@@ -13,9 +13,9 @@
 
 ## Olá Devs !!!
 
-- 📔 Sou professor do Curso Técnico em Informática Integrado.
-- 🌱 Atualmente estou no Grupo Formadores - TURMA H _ PENSAM COMPUT 2023_ FORM EM ACAO.
-- 💞️ Estou trabalhando no Colégio Estadual de Pato Branco - PR.
+- 📔 Sou professor nos Cursos: <a href="https://professor.escoladigital.pr.gov.br/sites/professores/arquivos_restritos/files/documento/2022-08/aa_dep_plano_curso_tecnico_informatica_integrado.pdf">Técnico em Informática Integrado;</a> <a href="https://professor.escoladigital.pr.gov.br/sites/professores/arquivos_restritos/files/documento/2023-02/educacao_profissional_plano_curso_desenvolvimento_sistemas_integrado2023.pdf">Técnico em Desenvolvimento de Sistemas</a>
+- 🌱 Atualmente como cursista no Grupo Formadores - TURMA w _ ROBÓTICA.
+- 💞️ Estou trabalhando no <a href="http://www.pbpatobranco.seed.pr.gov.br/modules/conteudo/conteudo.php?conteudo=1"> Colégio Estadual de Pato Branco - PR.</a>
 - 🤖 Atuo no **Projeto Robótica Educacional e Primeiros Passos**.
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
