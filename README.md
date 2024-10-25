@@ -18,6 +18,8 @@
 - 👨‍🏫 Atuei na Jornada 1 de 2023 como formador do Curso Robótica I e na J2 e J3 no Grupo de Estudos Desafio Paraná da <a href="https://professor.escoladigital.pr.gov.br/formadores_acao/conheca_ge"> Escola de Formação Continuada Formadores em Ação - SEED-PR </a>
 - 💞️ Estou trabalhando no <a href="http://www.pbpatobranco.seed.pr.gov.br/modules/conteudo/conteudo.php?conteudo=1"> Colégio Estadual de Pato Branco - PR.</a>
 - 🤖 Atuo no **Projeto Robótica Educacional e Primeiros Passos**.
+- 🌎 Sou professor residente do Projeto Manna_Team,  maior ecossistema de Tecnologias e Pessoas Exponenciais do Brasil
+🔭 Popularização da Ciência em IoD, IoRT, IA, Jogos, Metaverso, Educação 5.0 e + linktr.ee/manna_team
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
