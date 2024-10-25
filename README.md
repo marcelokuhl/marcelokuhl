@@ -14,8 +14,8 @@
 ## Olá Devs !!!
 
 - 📔 Sou professor nos Cursos: <a href="https://professor.escoladigital.pr.gov.br/sites/professores/arquivos_restritos/files/documento/2022-08/aa_dep_plano_curso_tecnico_informatica_integrado.pdf">Técnico em Informática Integrado;</a> <a href="https://professor.escoladigital.pr.gov.br/sites/professores/arquivos_restritos/files/documento/2023-02/educacao_profissional_plano_curso_desenvolvimento_sistemas_integrado2023.pdf">Técnico em Desenvolvimento de Sistemas</a>
-- 🌱 Atualmente sou cursista no Grupo Formadores - TURMA Jogos Digitais.
-- 👨‍🏫 Sou formador do Curso Robótica I na <a href="https://professor.escoladigital.pr.gov.br/formadores_acao/conheca_ge"> Escola de Formação Continuada Formadores em Ação - SEED-PR </a>
+- 🌱 Fui cursista em 2022 no Grupo Formadores - TURMA Jogos Digitais.
+- 👨‍🏫 Atuei na Jornada 1 de 2023 como formador do Curso Robótica I e na J2 d J3 no Grupo de Estudos Desafio Parná na <a href="https://professor.escoladigital.pr.gov.br/formadores_acao/conheca_ge"> Escola de Formação Continuada Formadores em Ação - SEED-PR </a>
 - 💞️ Estou trabalhando no <a href="http://www.pbpatobranco.seed.pr.gov.br/modules/conteudo/conteudo.php?conteudo=1"> Colégio Estadual de Pato Branco - PR.</a>
 - 🤖 Atuo no **Projeto Robótica Educacional e Primeiros Passos**.
 <p align="center">
