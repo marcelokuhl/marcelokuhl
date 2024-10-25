@@ -19,7 +19,7 @@
 - 💞️ Estou trabalhando no <a href="http://www.pbpatobranco.seed.pr.gov.br/modules/conteudo/conteudo.php?conteudo=1"> Colégio Estadual de Pato Branco - PR.</a>
 - 🤖 Atuo no **Projeto Robótica Educacional e Primeiros Passos**.
 - 🌎 Sou professor residente do Projeto Manna_Team,  maior ecossistema de Tecnologias e Pessoas Exponenciais do Brasil
-🔭 Popularização da Ciência em IoD, IoRT, IA, Jogos, Metaverso, Educação 5.0 e + <a href="https://linktr.ee/manna_team"> linktr.ee/manna_team </a>
+🔭 Popularização da Ciência em IoD, IoRT, IA, Jogos, Metaverso, Educação 5.0 e + <a href="https://linktr.ee/manna_team" target="_blank"> linktr.ee/manna_team </a>
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
